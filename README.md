@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code used in our paper "Population genetics in complex ecological communities", published on arXiv. 
+This repository contains the code used in our paper "Emergent frequency-dependent selection predicts mutation outcomes in complex ecological communities", published on arXiv. 
 
 ## Authors
 
